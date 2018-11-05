@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 import axios from "axios";
-import Menu from "./Menu";
 import { Container, Card } from "semantic-ui-react";
-import BookCard from "./BookCard";
+import BookCard from "../containers/BookCard";
 import Filter from "../containers/Filter";
+import Menu from "../containers/Menu";
 
 class App extends Component {
   componentWillMount() {
