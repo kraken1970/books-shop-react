@@ -49,11 +49,11 @@
   },
   {
     "id": 6,
-    "title": "Очаровательный кишечник. Как самый могущественный орган управляет нами",
-    "author": "Джулия Эндерс",
-    "image": "https://cv6.litres.ru/sbc/32764469_cover_185-elektronnaya-kniga-dzhuliya-enders-ocharovatelnyy-kishechnik-kak-samyy-moguschestvennyy-organ-upravlyaet-nami-12178377.jpg",
-    "price": 573,
-    "rating": 4
+    "title": "Вино из одуванчиков",
+    "author": "Рэй Брэдбери",
+    "image": "https://cv4.litres.ru/pub/c/elektronnaya-kniga/cover_415/128048-rey-bredberi-vino-iz-oduvanchikov.jpg",
+    "price": 119,
+    "rating": 5
   },
   {
     "id": 7,
@@ -73,11 +73,11 @@
   },
   {
     "id": 9,
-    "title": "Девушка во льду",
-    "author": "Роберт Брындза",
-    "image": "https://cv3.litres.ru/sbc/31989433_cover_185-elektronnaya-kniga-robert-bryndza-12646976-devushka-vo-ldu.jpg",
-    "price": 882,
-    "rating": 2
+    "title": "Три товарища",
+    "author": "Эрих Мария Ремарк",
+    "image": "https://cv6.litres.ru/pub/c/elektronnaya-kniga/cover_330/122462-erih-mariya-remark-tri-tovarischa.jpg",
+    "price": 149,
+    "rating": 5
   },
   {
     "id": 10,
@@ -137,10 +137,10 @@
   },
   {
     "id": 18,
-    "title": "Снеговик",
-    "author": "Ю Несбё",
-    "image": "https://cv5.litres.ru/sbc/31604254_cover_185-elektronnaya-kniga-u-nesbe-snegovik-4578362.jpg",
-    "price": 796,
+    "title": "Сто лет одиночества",
+    "author": "Габриэль Гарсиа Маркес",
+    "image": "https://cv6.litres.ru/pub/c/elektronnaya-kniga/cover_330/4368065-gabriel-garsiya-markes-sto-let-odinochestva.jpg",
+    "price": 149,
     "rating": 5
   },
   {
@@ -150,5 +150,13 @@
     "image": "https://cv1.litres.ru/sbc/14195715_cover_185-elektronnaya-kniga-dzhonatan-henkok-kak-trenirovat-pamyat-ne-dumayte-o-pamyati-luchshe-ispolzuyte-ee-na-vse-sto.jpg",
     "price": 399,
     "rating": 5
+  },
+  {
+    "id": 20,
+    "author": "Эдвард Сент-Обин",
+    "image": "https://cv2.litres.ru/pub/c/elektronnaya-kniga/cover_415/38683128-edvard-sent-obin-patrik-melrouz-kniga-1.jpg",
+    "title": "Патрик Мелроуз. Книга 1 (сборник)",
+    "price": 279,
+    "rating": 4
   }
 ]

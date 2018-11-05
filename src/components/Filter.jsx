@@ -1,6 +1,6 @@
 import React from "react";
 import { Menu, Input } from "semantic-ui-react";
-import { setSearchQuery } from "../actions/filter";
+// import { setSearchQuery } from "../actions/filter";
 
 const Filter = ({ setFilter, filterBy, searchQuery, setSearchQuery }) => {
   return (

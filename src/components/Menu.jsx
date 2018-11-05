@@ -18,6 +18,7 @@ const CartComponent = ({ title, id, image, removeFromCart }) => (
 const MenuComponent = ({ totalPrice, count, items }) => (
   <Menu>
     <Menu.Item name="browse">Магазин книг</Menu.Item>
+    <Menu.Menu>https://www.litres.ru</Menu.Menu>
 
     <Menu.Menu position="right">
       <Menu.Item name="signup">
