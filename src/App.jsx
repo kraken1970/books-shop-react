@@ -1,6 +1,4 @@
 import React, { Component } from "react";
-// import { connect } from "react-redux";
-// import { setBooks } from "./actions/books";
 import axios from "axios";
 import Menu from "./Menu";
 import { Container, Card } from "semantic-ui-react";
